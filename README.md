@@ -2,6 +2,9 @@
 
 Aplikasi desktop CRUD (Create, Read, Update, Delete) untuk manajemen data karyawan menggunakan **Java 21 LTS**, **Hibernate ORM**, dan **MySQL Database**.
 
+<img width="1492" height="893" alt="Praktek Hibernate Astrid" src="https://github.com/user-attachments/assets/fb05c35b-e650-4582-967f-57c6668b73a6" />
+
+
 ## 🔧 Prerequisites
 
 Sebelum menjalankan aplikasi, pastikan sudah install:
